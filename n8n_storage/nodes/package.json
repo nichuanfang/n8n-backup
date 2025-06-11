@@ -1,5 +1,9 @@
 {
   "name": "installed-nodes",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "n8n-nodes-sqlite3": "0.2.0",
+    "n8n-nodes-globals": "1.0.3",
+    "n8n-nodes-sqlite": "0.1.14"
+  }
 }
