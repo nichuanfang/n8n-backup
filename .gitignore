@@ -2,3 +2,4 @@ db_storage/*
 n8n_storage/*.journal
 n8n_storage/*.log
 data/telegram/*
+!data/telegram/.gitkeep
