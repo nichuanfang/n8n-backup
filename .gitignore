@@ -3,3 +3,5 @@ n8n_storage/*.journal
 n8n_storage/*.log
 data/telegram/*
 !data/telegram/.gitkeep
+data/bookmark/*
+!data/bookmark/.gitkeep
